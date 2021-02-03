@@ -1,2 +1,2 @@
 # python
-flapy bird game 
+flappy bird game 
